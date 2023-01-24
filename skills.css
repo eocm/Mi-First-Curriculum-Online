@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding:0;
+    background-image:url(../img/skills.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    color: black;
+}
+.imagen{
+    width: 150px;
+    height: 150px;
+}
+.viñetas h3{
+    display:inline-flex;
+}

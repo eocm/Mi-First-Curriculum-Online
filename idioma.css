@@ -1,0 +1,16 @@
+body{
+    height: 1000px;
+    width: 1000px;
+    background-image:url(../img/idioma.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    color: black;
+}
+.imagen{
+    width: 150px;
+    height: 150px;
+}
+.viñetas h3{
+    display: inline-flex;
+}
